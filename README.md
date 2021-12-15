@@ -1,2 +1,2 @@
-# homepage
-It is my first github repository.
+# Homepage
+At this repository you can find my resume.
